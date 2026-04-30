@@ -1,0 +1,13 @@
+{
+  "name": "SmartTravel",
+  "description": "Crowd intelligence and smart travel planning ecosystem with real-time route insights, facility discovery, and stay management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Real-time Crowd Analytics",
+    "Smart Route Recommendations",
+    "Emergency Support System",
+    "Stay Management"
+  ]
+}
